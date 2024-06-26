@@ -1,0 +1,34 @@
+
+table{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(26, 26, 25);
+    margin:170px auto;
+}
+
+.gre{
+    color: brown;
+}
+input[type="button"]{
+    width: 90%;
+    border-radius: 20px;
+    padding: 20px 40px;
+    margin: 5px;
+    background-color: rgb(251, 251, 244);
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+
+
+input[type="text"]{
+    border-radius: 20px;
+    padding: 20px 69px;
+    margin: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(251, 251, 244);
+}
+
